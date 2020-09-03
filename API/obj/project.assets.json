@@ -1149,11 +1149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bojan\\Documents\\GitHub\\activities-plan\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Bojan\\Documents\\GitHub\\activities-plan\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Bojan\\Documents\\GitHub\\activities-plan\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Bojan\\Documents\\GitHub\\activities-plan\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Bojan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bojan\\Documents\\GitHub\\activities-plan\\API\\obj\\",
+      "outputPath": "C:\\Users\\Bojan\\Documents\\GitHub\\activities-plan\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
